@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hermeszeus
 - 👀 I’m interested in computational science
-- 🌱 I’m currently learning statistical physics, differentials equations, multivariable calculus
+- 🌱 I’m currently learning differentials equations, Fluid dynamics, HTML/JS and C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : send me an email on laffonarthur@gmail.com
 
 <!---
 hermeszeus/hermeszeus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
